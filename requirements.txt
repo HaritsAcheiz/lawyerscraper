@@ -1,0 +1,3 @@
+httpx==0.26.0
+selectolax==0.3.17
+pandas==2.1.4
